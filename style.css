@@ -99,5 +99,10 @@ footer ul li {
   font-weight: 600;
 }
 
+.movie-img {
+  height: 180px;
+  object-fit: cover;
+}
+
 /* .myInputField::placeholder {
 } */
